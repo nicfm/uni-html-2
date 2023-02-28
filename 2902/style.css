@@ -1,0 +1,140 @@
+body {
+    background-color:rgb(243, 241, 235);
+    margin: 20px;
+    }
+.header1 {
+    background-color: lightblue;
+    border: 2px solid rgb(158, 181, 189);
+    padding-right: 10px;
+    text-align: center;
+    font-family: 'Gill Sans', sans-serif;
+    font-size: 150%;
+    float: center;
+}
+.bar1 {
+    background-color: rgb(160, 83, 83);
+    text-align: center;
+    
+    
+}
+a:link {
+    color:black;
+    text-decoration: none;
+}
+a:visited {
+    color: black
+    
+}
+
+a:active {
+    color:black;
+    text-decoration: none;
+}
+.homebar {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background-color: brown;
+    border-radius: 15px;
+    font-family: 'Gill Sans', sans-serif;
+    font-size: 85%;
+
+}
+.li1 {
+    display: block;
+    color:antiquewhite;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    float:left;
+
+}
+.li3 {
+    display: block;
+    color: antiquewhite;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    float: right;
+}
+a:visited {
+    color: antiquewhite;
+}
+.li2 {
+    background-color: black;
+}
+.limage {
+    display:block;
+    text-align: center;
+    padding: 6px;
+    float: left;
+}
+
+.lipost {
+    display: block;
+    text-align: left;
+    color: antiquewhite;
+    padding: 12px;
+    text-decoration: none;
+    float: left;
+
+}
+.homebar2 {
+    list-style-type: none;
+    margin: 8px;
+    height: 100px;
+    width: 9px;
+    padding: 90px;
+    padding-bottom: 150px;
+    overflow: hidden;
+    background-color: brown;
+    border-radius: 15px;
+    font-family: 'Gill Sans', sans-serif;
+    font-size: 85%;
+    text-align: left;
+    
+    
+
+}
+.textformat1 {
+    font-family: 'Gill Sans',  sans-serif;
+    font-size: 200%;
+    padding: 10px;
+    text-align: center;
+    
+}
+.homebar3 {
+    
+    list-style-type: none;
+    margin: 8px;
+    height: 10px;
+    width: 9px;
+    padding: 90px;
+    padding-bottom: 150px;
+    overflow: hidden;
+    background-color: brown;
+    border-radius: 15px;
+    font-family: 'Gill Sans', sans-serif;
+    font-size: 85%;
+    text-align: left;
+    
+}
+.imgformat1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: %;
+    height: 160%;
+    transform: translateX(-50%);
+    
+}
+.imgformat2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: %;
+    height: 2000%;
+    transform: translateX(-50%);
+}
+
